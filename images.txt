@@ -1,2 +1,3 @@
 nyanmisaka/jellyfin
 gitlab/gitlab-ce
+linuxserver/calibre-web
